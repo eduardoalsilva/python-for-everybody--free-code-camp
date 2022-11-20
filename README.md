@@ -33,5 +33,6 @@ python3 ex_04.py (para terminal linux)
 # Autor
 
 Eduardo Almeida da Silva
+
 [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-da-silva-dev/)
 [Portfólio](https://eduardoalsilva.github.io/)
