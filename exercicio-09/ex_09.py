@@ -1,14 +1,14 @@
-fname = input('Enter File: ')
-if len(fname) < 1:
-    fname = 'clown.txt'
+fileName = input('Enter File: ')
+if len(fileName) < 1:
+    fileName = 'clown.txt'
 
-hand = open(fname)
+handleContent = open(fileName)
 
 di = dict( )
-for line in hand:
+for line in handleContent:
     line = line.rstrip()
-    wds = line.split()
-    for w in wds:
+    words = line.split()
+    for w in words:
         di[w] = di.get(w,0) + 1
 
     largest = -1
