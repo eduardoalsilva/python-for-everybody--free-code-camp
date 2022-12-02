@@ -4,6 +4,8 @@
 
 ## Sobre o projeto/curso
 
+https://github.com/eduardoalsilva/python-for-everybody--free-code-camp
+
 Estes são os exercícios do curso de Python da Freecodecamp. O curso Python for Everybody é ministrado pelo professor Charles Severance, e tem como base o seu livro também chamado de Python for Everybody.
 
 
