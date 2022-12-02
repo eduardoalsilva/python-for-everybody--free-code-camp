@@ -18,7 +18,7 @@ Estes são os exercícios do curso de Python da Freecodecamp. O curso Python for
 # clonar repositório
 git clone git@github.com:eduardoalsilva/python-for-everybody--free-code-camp.git
 
-# entrar na pasta do projeto 7DaysOfCode-GitHub--Filmes-Populares
+# entrar na pasta do projeto python-for-everybody--free-code-camp
 cd python-for-everybody--free-code-camp
 
 # entrar na pasta do exercício desejado por exemplo:
@@ -35,4 +35,5 @@ python3 ex_04.py (para terminal linux)
 Eduardo Almeida da Silva
 
 [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-da-silva-dev/)
+
 [Portfólio](https://eduardoalsilva.github.io/)
